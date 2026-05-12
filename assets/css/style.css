@@ -1446,3 +1446,20 @@ a {
 .contact-section ul .social-links a i {
   color: #1F2632;
 }/*# sourceMappingURL=style.css.map */
+
+.nav-logo{
+    height: 65px;
+    width: auto;
+    display: block;
+}
+
+.navbar-brand{
+    padding-top: 0;
+    padding-bottom: 0;
+    margin: 0;
+}
+
+.custom-navbar{
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
